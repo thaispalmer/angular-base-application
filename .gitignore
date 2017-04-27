@@ -1,0 +1,15 @@
+# Ignore Node modules and Bower components
+node_modules/
+bower_components/
+
+# Ignore the dist folder, which contains all compiled/minified files.
+dist/
+
+# Ignore cache files
+.sass-cache/
+
+# Ignore Mac DS_Store files
+.DS_Store
+
+# Ignore PhpStorm files
+.idea
