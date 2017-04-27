@@ -1,6 +1,12 @@
 AngularJS Base Application Boilerplate
 ======================================
 
+A Powerful boilerplate for AngularJS applications, created for easily start new projects.
+
+Prepared for REST API, front-end powered by Bootstrap Sass and it's fully automated with Grunt.
+
+- - -
+
 Requirements
 ------------
 
